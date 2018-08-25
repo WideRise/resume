@@ -3,7 +3,7 @@
 
 ## 个人信息 
 姓名：xxx                  学校：xxxxxxxxx  
-学历：本科                邮箱：xxxxxxxxx 
+学历：本科                  邮箱：xxxxxxxxx 
 联系方式：xxxxxx     
 
 ## 学校实习经历
